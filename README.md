@@ -1,6 +1,6 @@
 ## Coding challenge for Active Campaign
 
-In the project directory, you can run:
+After cloning the repository, in the project directory, you can run:
 
 ### `npm start`
 
