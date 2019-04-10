@@ -62,6 +62,7 @@ class Donation extends Component {
       successAlert = (
         <Alert variant="success" dismissible onClose={this.resetState}>
           <Alert.Heading>Yay, we did it!!</Alert.Heading>
+          <hr/>
           <p>
             Thanks for your donations.  We reached our goal of $5,000!!!
           </p>
