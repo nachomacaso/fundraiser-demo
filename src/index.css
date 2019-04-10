@@ -87,6 +87,15 @@ code {
   border-color: #19CCA3;
 }
 
+.input-button:hover:enabled {
+  background: #1ce0b3;
+  border-color: #1ce0b3;
+}
+
+.input-button:disabled {
+  cursor: not-allowed;
+}
+
 .input-prepend {
   background: #FFFFFF;
   color: #9298AD;
