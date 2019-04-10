@@ -1,6 +1,4 @@
-Coding challenge for Active Campaign
-
-## Available Scripts
+## Coding challenge for Active Campaign
 
 In the project directory, you can run:
 
